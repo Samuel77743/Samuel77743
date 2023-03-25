@@ -1,6 +1,6 @@
 # 👋 Oi, me chamo Samuel Silva
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samuel77743&hide=contribs,prs,issues&show_icons=true&theme=cobalt)](https://github.com/Samuel77743/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samuel77743&hide=contribs,prs,issues&show_icons=true&theme=merko)](https://github.com/Samuel77743/github-readme-stats)
 
 - 👋 Oi, me chamo Samuel Silva
 - 👀 Quero ser o cara que o escritório diz: "Rápido, precisamos do Samuel". =)
