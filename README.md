@@ -1,5 +1,5 @@
 - ## Oi
-https://github-readme-stats.vercel.app/api?username=Samuel77743)](https://github.com/anuraghazra/github-readme-stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samuel77743)](https://github.com/Samuel77743/github-readme-stats)
 
 - 👋 Oi, me chamo Samuel Silva
 - 👀 Quero ser o cara que o escritório diz: "Rápido, precisamos do Samuel". =)
