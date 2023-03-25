@@ -1,4 +1,5 @@
-- ## Oi
+# 👋 Oi, me chamo Samuel Silva
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samuel77743)](https://github.com/Samuel77743/github-readme-stats)
 
 - 👋 Oi, me chamo Samuel Silva
