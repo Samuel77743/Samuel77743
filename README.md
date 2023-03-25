@@ -1,3 +1,4 @@
+- ## Oi
 - 👋 Oi, me chamo Samuel Silva
 - 👀 Quero ser o cara que o escritório diz: "Rápido, precisamos do Samuel". =)
 - 🌱 Estou no início da aprendizagem da área, e foco em aprender a Lógica e também Python, e simultâneamente cursando a Faculdade de Ciências da Computação
