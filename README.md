@@ -13,5 +13,5 @@
 ## Projetos 
 Criei muitos sites e estou praticando muitos exercicios, já postados aqui no perfil, incluindo atividades e projetos instruidos por Curso em Vídeo. Não vou parar!
 
-## Certificações
+## 🎫 Certificações 🎫
   Minhas aquisições educacionais que retornaram **CERTIFICADOS** estão no repositório: https://github.com/Samuel77743/certificados
